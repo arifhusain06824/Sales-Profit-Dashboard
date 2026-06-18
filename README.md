@@ -23,8 +23,8 @@ This project is an interactive Sales & Profit Dashboard built using Microsoft Ex
 - Dashboard Design
 
 ## Dashboard Preview
+![Dashboard Preview](Dashboard%20Preview.png)
 
-![Dashboard Preview](Dashboard-preview.png)
 
 ## Files Included
 - `Sales and-Profit-Dashboard.xlsx`
